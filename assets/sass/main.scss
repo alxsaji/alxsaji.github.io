@@ -559,6 +559,23 @@ $size-header-pad: 4em;
 			padding: 0;
 		}
 	}
+/* Tags */
+.tag-cloud {
+	display: inline-block;
+	color: white;
+	opacity: 0.75;
+	padding: 5px 20px;
+	border-radius: 25px;
+	background-color: hsl(145, 49%, 43%);
+	margin-top: 8px;
+	font-size: 0.8em;
+	line-height: 1.5em;
+	margin: 5;
+
+	
+	
+  	}
+
 
 /* Icon */
 
